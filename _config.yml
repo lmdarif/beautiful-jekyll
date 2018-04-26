@@ -25,7 +25,7 @@ description: Sharing my learnings and experiences..
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Resume: "/docs/MohamedArif.pdf"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://arifone.me"
